@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Reasons humbly offered, why the importation of foreign-wrought figured, flowered, biassed, stitched and stripe silks and drugets, tameenes and estimenes, and other stuffs made of wool, should be prohibited.</title>
+         </titleStmt>
+         <extent>Approx. 7KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B28791</idno><idno type="EEBO-CITATION">99887467</idno>
+  <idno type="VID">190418</idno>
+  <idno type="EEBO-PROQUEST">2240884917</idno>
+  
+            <idno type="STC">Wing R563C</idno>
+            <idno type="STC">Interim Tract Supplement Guide L.R.305.a.7.[3]</idno>
+            <idno type="STC">ESTC R227688</idno>
+            <idno type="PROQUEST">ocm99887467</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99887467e"/>
+            <note>(EEBO-TCP ; phase 2, no. B28791)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 190418)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C21:2[19])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Reasons humbly offered, why the importation of foreign-wrought figured, flowered, biassed, stitched and stripe silks and drugets, tameenes and estimenes, and other stuffs made of wool, should be prohibited.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1700?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint suggested by Wing.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Silk industry --  England --  Early works to 1800.</term>
+               <term type="topical_term">Restraint of trade --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Maria Cecilia Caride </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Maria Cecilia Caride</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="document">
+            <pb facs="tcp:190418:1"/>
+            <head>REASONS Humbly Offered, why the Importation of Foreign-wrought Figured, Flowered, Biassed, Stitched and Stripe Silks and Drugets, Tameenes and Estimenes, and other Stuffs made of Wool, should be prohibited.</head>
+            <p>THe Trade of <hi>Weaving</hi> is of great Antiquity and Usefulness, and for these Forty Years past, hath exceedingly Improved, and been very advantagious to this Nation, the Woollen Manufactures Wrought in <hi>England,</hi> being Exported to <hi>Turky, Italy, &amp;c.</hi> have been chiefly paid for with Raw Silks and Hair, greatly beneficial to His Majesty in His Customs, to the incouragement of Navigation, and to the imploying of very great numbers of <hi>English,</hi> there having been imployed at one time in the City of <hi>London,</hi> and Parts adjacent, in and about the Weaving the said Silk and Hair, at least One Hundred Thousand Persons, old and young, besides very great numbers at <hi>Canterbury, Manchester, Exerter, Norwich,</hi> and other Places.</p>
+            <p>That the <hi>English</hi> have arrived to very great Skill and Experience in the Weaving all manner of Silks and Stuffs, and having duly paid and answered the Customs for the Raw Silks, Hair, and other Commodities used in the Dying thereof, and working and providing (at the dead time of the year) great quantities of well-contrived, and workman-like Broad and Narrow Commodities, as well Plain as Fashionable, Figured and Flowered, expecting to Sell the same at other times, are disappointed by the frequent Importation of Foreign-wrought Commodities of Silk and Wool, especially from <hi>France,</hi> most of which (by small Sloops or Shallops) are privately conveyed hither without paying Custom, it being very obvious and plain, that not one Peece in twenty are Entred or Paid for, to the great Deceipt of His Majesty. And however slight, defective, and old-fashioned the said Foreign Goods are, yet being here, and term'd <hi>A la mode de France,</hi> are greatly used, to the Deceipt also of the Subject; whereby the <hi>English</hi> Artists, having little or no Vent for their Commodities, have no incouragement to Ingenuity, and many hundreds of <hi>Weavers,</hi> aswell at <hi>London, Canterbury, Norwich,</hi> and other Places, have through these discouragements, especially for these last six years, been ruined, and inforced to desist from their Callings, and many of them betaken to Porteridge, and other servile Imployments, and great numbers of Persons, old and young, by them formerly set to Work, are now (for want thereof) become burthensome and chargeable to their respective Parishes; and without speedy remedy, the Art of <hi>Weaving</hi> will be here totally lost, to the great Dishonour of this Kingdom.</p>
+            <p>That hereby also a great number of <hi>English Merchants,</hi> Trading to <hi>Turky</hi> and <hi>Italy</hi> for Raw Silks and Hair as aforesaid, are greatly discouraged by the small Vent for the same, and consequently the Vent for the Woollen Manu<g ref="char:EOLhyphen"/>factures is and will be exceedingly lessened, to the great Dammage of His Majesty in His Customs, and the whole Kingdom in general.</p>
+            <p>That the <hi>Mercers,</hi> Trading in Silks and Stuffs, are also greatly damnified; for that, although they usually venture upon small quantities of the <hi>English</hi> Woven Goods, sometimes but for one Garment which they Cut out of the <hi>Weavers</hi> Loom, because of the alteration of Fashions, yet will not the <hi>French Merchants</hi> sell the <hi>Mercer</hi> less than several Peeces of great lengths, and at high Rates, and before he can have Vent for one half, the said <hi>Merchants</hi> immediately bring in other Fashions, so that either some whole Peeces, or many Remnants, remain upon the <hi>Mercer</hi>'s Hands, to his greater Loss than the Profit of the former will enable him to bear.</p>
+            <p>That it hath been truly computed, that the <hi>English</hi> pay yearly for the Manufacturing of <hi>French</hi>-Women Silks, (besides Stuffs) which might be Wrought by Handicrafts in <hi>England,</hi> and which are generally paid for with Monies, not with other Commodities, the Sum of Five Hundred Five Thousand One Hundred and Ten Pounds: So that allowing to every Person, working in Silk, Fifteen Pounds <hi>per Annum,</hi> (which is the most, one with another, they do or can earn) it would imploy Thirty Three Thousand Six Hundred Seventy Four, Men, Women and Children, which number, were they here imployed, would be considerably advantagious to this Kingdom. And from hence it is evident, That the <hi>English</hi> do maintain the <hi>French</hi> Kings Subjects at Work, whilst the Natives here are ready to starve and perish through want thereof.</p>
+            <p>That all these Inconveniences to Trade, and Dammage to the Kingdom, doth ensue by the Craft and Subtilty of a few <hi>French Merchants</hi> in <hi>London,</hi> about seven or eight in number, who to enrich themselves, care not how many thousands of the <hi>English</hi> (especially the poor Handicrafts) are ruined.</p>
+            <p>That the <hi>Weavers,</hi> in and about <hi>London,</hi> have been lately required by His Majesty and Council, to receive and imploy Aliens and Strangers, <hi>Weavers,</hi> which they readily submitted unto, in confidence, that then Foreign Work would be discouraged, for that Foreign Work and Workmen coming together, will certainly ruin the <hi>English</hi> Artists; and if Work be brought, there can be no incouragement for Foreign Workmen to come, and many Strangers repairing hither of late, through want of Imployment in the <hi>Weavers</hi> Trade, have returned back again: And were there Imployment sufficient (which can never be but by discouragement of these <hi>French</hi> Silks and Stuffs) the <hi>Weavers</hi> will willingly and chearfully imbrace as many Strangers in the <hi>Weaving</hi> Trade, as shall by Authority be thought fit to be allowed here to reside.</p>
+            <p>That the <hi>French</hi> King, because His Subjects have gained some little Experience in the Weaving of Silk Stockings, hath lately prohibited the Sale of <hi>English</hi> Stockings in His Countries, whereby that Trade is like to be lost.</p>
+            <p>Now, inasmuch as the <hi>Weavers</hi> desire not to discourage the Importation or Use of such Silks as are not Wrought and Manufactured here, they hope they shall receive all due incouragement in such as they do or can Make, and which from the Reasons aforesaid will so greatly tend to the Advantage and Honour of this Kingdom: And therefore humbly Pray, <hi>That the Importation of all Foreign-wrought Figured, Flowered, Biassed, Stitched, and Stripe Silks and Drugets, Tameenes and Estimenes, and other Stuffs made of Wool, may be prohibited amongst other Commodities prohibited by the Bill of Imposition now under Consideration.</hi>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>
